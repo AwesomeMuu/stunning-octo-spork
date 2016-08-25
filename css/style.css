@@ -12,3 +12,11 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.off-white{
+  background-color: #fafafa !important;
+}
+
+.off-white-text{
+  color: #fafafa !important;
+}
