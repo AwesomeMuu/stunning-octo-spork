@@ -2255,7 +2255,6 @@ aside,
 details,
 figcaption,
 figure,
-footer,
 header,
 hgroup,
 main,
@@ -2264,6 +2263,12 @@ nav,
 section,
 summary {
   display: block;
+}
+
+footer{
+  display: block;
+  font-family: Roboto;
+  font-size: 12px
 }
 
 /**
@@ -4247,6 +4252,7 @@ nav .input-field label.active {
   position: fixed;
 }
 
+
 @media only screen and (min-width: 601px) {
   nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
     height: 64px;
@@ -4255,13 +4261,6 @@ nav .input-field label.active {
   .navbar-fixed {
     height: 64px;
   }
-}
-p{
-  font-family: smartman;
-}
-@font-face {
-    font-family: "smartman";
-    src: url("../fonts/smartman/smartman.ttf"); font-weight: normal;
 }
 
 @font-face {
