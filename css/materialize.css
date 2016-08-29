@@ -2226,7 +2226,7 @@
  *    without disabling user zoom.
  */
 html {
-  font-family: sans-serif;
+  font-family: Roboto;
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -5208,8 +5208,13 @@ button.btn-floating {
   pointer-events: none;
 }
 
+
 .waves-effect.waves-light .waves-ripple {
   background-color: rgba(255, 255, 255, 0.45);
+}
+
+.waves-effect.waves-light-blue .waves-ripple {
+  background-color: rgba(2, 3, 131, 0.12);
 }
 
 .waves-effect.waves-red .waves-ripple {
@@ -5562,6 +5567,7 @@ button.btn-floating {
 
 .materialboxed:hover:not(.active) {
   opacity: .8;
+
 }
 
 .materialboxed.active {
@@ -8214,7 +8220,9 @@ input[type=range]:focus::-ms-fill-upper {
   font-weight: 300;
 }
 
-.picker__nav--prev:hover,
+.picker__nav--prev:
+
+,
 .picker__nav--next:hover {
   cursor: pointer;
   color: #000000;
