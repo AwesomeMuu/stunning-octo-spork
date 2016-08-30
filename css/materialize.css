@@ -5212,7 +5212,10 @@ button.btn-floating {
 .waves-effect.waves-light .waves-ripple {
   background-color: rgba(255, 255, 255, 0.45);
 }
+.waves-effect.waves-brown .waves-ripple {
+  background-color: rgba(152, 67, 0, 0.38);
 
+}
 .waves-effect.waves-light-blue .waves-ripple {
   background-color: rgba(2, 3, 131, 0.12);
 }
