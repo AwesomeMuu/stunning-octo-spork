@@ -2789,7 +2789,7 @@ video.responsive-video {
   float: none;
 }
 
-@media only screen and (max-width: 902px) {
+@media only screen and (max-width: 1009px) {
   .pagination {
     width: 100%;
   }
@@ -2896,7 +2896,7 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (max-width: 902px) {
+@media only screen and (max-width: 1009px) {
   .hide-on-med-and-down {
     display: none !important;
   }
@@ -2908,25 +2908,25 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 902px) {
+@media only screen and (min-width: 600px) and (max-width: 1009px) {
   .hide-on-med-only {
     display: none !important;
   }
 }
 
-@media only screen and (min-width: 903px) {
+@media only screen and (min-width: 1010px) {
   .hide-on-large-only {
     display: none !important;
   }
 }
 
-@media only screen and (min-width: 903px) {
+@media only screen and (min-width: 1010px) {
   .show-on-large {
     display: block !important;
   }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 902px) {
+@media only screen and (min-width: 600px) and (max-width: 1009px) {
   .show-on-medium {
     display: block !important;
   }
@@ -2944,7 +2944,7 @@ ul.staggered-list li {
   }
 }
 
-@media only screen and (max-width: 902px) {
+@media only screen and (max-width: 1009px) {
   .show-on-medium-and-down {
     display: block !important;
   }
@@ -3016,7 +3016,7 @@ td, th {
   border-radius: 2px;
 }
 
-@media only screen and (max-width: 902px) {
+@media only screen and (max-width: 1009px) {
   table.responsive-table {
     width: 100%;
     border-collapse: collapse;
@@ -3428,7 +3428,7 @@ input[type=range] + .thumb {
   }
 }
 
-@media only screen and (min-width: 903px) {
+@media only screen and (min-width: 1010px) {
   .container {
     width: 70%;
   }
@@ -3890,7 +3890,7 @@ input[type=range] + .thumb {
   }
 }
 
-@media only screen and (min-width: 903px) {
+@media only screen and (min-width: 1010px) {
   .row .col.l1 {
     width: 8.3333333333%;
     margin-left: auto;
@@ -4099,7 +4099,7 @@ nav .nav-wrapper {
   height: 100%;
 }
 
-@media only screen and (min-width: 903px) {
+@media only screen and (min-width: 1010px) {
   nav a.button-collapse {
     display: none;
   }
@@ -4133,7 +4133,7 @@ nav .brand-logo.center {
           transform: translateX(-50%);
 }
 
-@media only screen and (max-width: 902px) {
+@media only screen and (max-width: 1009px) {
   nav .brand-logo {
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -4315,7 +4315,7 @@ html {
   }
 }
 
-@media only screen and (min-width: 902px) {
+@media only screen and (min-width: 1009px) {
   html {
     font-size: 14.5px;
   }
@@ -4728,7 +4728,7 @@ small {
   }
 }
 
-@media only screen and (min-width: 601px) and (max-width: 902px) {
+@media only screen and (min-width: 601px) and (max-width: 1009px) {
   #toast-container {
     left: 5%;
     bottom: 7%;
@@ -4736,7 +4736,7 @@ small {
   }
 }
 
-@media only screen and (min-width: 903px) {
+@media only screen and (min-width: 1010px) {
   #toast-container {
     top: 10%;
     right: 7%;
@@ -4788,13 +4788,13 @@ small {
   }
 }
 
-@media only screen and (min-width: 601px) and (max-width: 902px) {
+@media only screen and (min-width: 601px) and (max-width: 1009px) {
   .toast {
     float: left;
   }
 }
 
-@media only screen and (min-width: 903px) {
+@media only screen and (min-width: 1010px) {
   .toast {
     float: right;
   }
@@ -5312,7 +5312,7 @@ button.btn-floating {
   will-change: top, opacity;
 }
 
-@media only screen and (max-width: 902px) {
+@media only screen and (max-width: 1009px) {
   .modal {
     width: 80%;
   }
@@ -5970,7 +5970,7 @@ textarea.materialize-textarea + label:after {
   margin-left: 3rem;
 }
 
-@media only screen and (max-width: 902px) {
+@media only screen and (max-width: 1009px) {
   .input-field .prefix ~ input {
     width: 86%;
     width: calc(100% - 3rem);
@@ -7004,7 +7004,7 @@ input[type=range]:focus::-ms-fill-upper {
   left: auto;
 }
 
-@media only screen and (max-width: 902px) {
+@media only screen and (max-width: 1009px) {
   .side-nav.fixed {
     -webkit-transform: translateX(-105%);
             transform: translateX(-105%);
